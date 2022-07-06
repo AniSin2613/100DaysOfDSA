@@ -22,8 +22,8 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 ### **Constraints:**
 
--   `1 <= prices.length <= 105`
--   `0 <= prices[i] <= 104`
+-   1 <= prices.length <= 10<sup>5</sup>
+-   0 <= prices[i] <= 10<sup>4</sup>
 
 ### Problem Link:
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
