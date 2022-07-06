@@ -26,10 +26,10 @@ The tests are generated such that there is  **exactly one solution**. You  **may
 **Explanation:** The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We return [1, 2].
 
 ### **Constraints:**
--   `2 <= numbers.length <= 3 * 104`
--   `-1000 <= numbers[i] <= 1000`
+-   2 <= numbers.length <= 3 * 10<sup>4</sup>
+-   -1000 <= numbers[i] <= 1000
 -   `numbers`  is sorted in  **non-decreasing order**.
--   `-1000 <= target <= 1000`
+-   -1000 <= target <= 1000
 -   The tests are generated such that there is  **exactly one solution**.
 
 ## Python Code
